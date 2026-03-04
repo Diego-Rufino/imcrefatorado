@@ -53,6 +53,8 @@ export default function HomeScreen() {
   );
 }
 
+//teste
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
